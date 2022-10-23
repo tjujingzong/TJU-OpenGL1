@@ -1,0 +1,6 @@
+﻿  main.cpp
+D:\visual studio\cpp-project\openGL1\main.cpp(11,36): warning C4305: “初始化”: 从“double”到“float”截断
+D:\visual studio\cpp-project\openGL1\main.cpp(22,50): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+D:\visual studio\cpp-project\openGL1\main.cpp(23,48): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+D:\visual studio\cpp-project\openGL1\main.cpp(205,18): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+  openGL1.vcxproj -> D:\visual studio\cpp-project\openGL1\x64\Debug\openGL1.exe
